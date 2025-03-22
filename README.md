@@ -70,7 +70,7 @@ Software Engineer, Instructor and technical writer who uses written tutorials an
     Node.JS, Express.Js, GraphQL, Golang, Django, Laravel, Slim.
 
   ### Blockchain Development 
-    DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust, FunC, EVM, Solana, Ton, Polkadot and Cosmos SDK etc
+    DePIN, DeFi, NFT, DApps, DEX, P2E, Smart Contract with Solidity, Rust, FunC, EVM, Solana, Ton, Polkadot, Cosmos SDK
 
   ### Trading Bot Development 
     MT4,MT5, IBKR, SieraChart, TradingView, TradeStation, NinjaTrader.
