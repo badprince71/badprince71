@@ -6,7 +6,7 @@ Software Engineer, Instructor and technical writer who uses written tutorials an
 - 💻 Coding Instructor at [Nucamp](https://www.nucamp.co/).
 - Currently working on improving my skills on Data Structures and studying Math.
 - 💬 Ask me about React Native, React Native, NextJs, CSS, and JavaScript/ TypeScript.
-- 📫 How to reach me: info.said.dev@gmail.com.
+- 📫 How to reach me: kylesmith010701@gmail.com.
 
 
 # Articles and Blogs
