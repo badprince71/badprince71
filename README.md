@@ -1,4 +1,4 @@
-# Hi I'm SaiD 👋
+# Hi I'm Kyle Smith 👋
 
 Software Engineer, Instructor and technical writer who uses written tutorials and blog posts to help people learn to code.
 
