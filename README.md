@@ -223,19 +223,19 @@ Software Engineer, Instructor and technical writer who uses written tutorials an
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=jquery"
+        src="https://skillicons.dev/icons?i=nextjs"
         width="65"
         height="65"
         alt="jQuery" />
-      <br />jQuery
+      <br />Next.js
     </td>
     <td align="center" width="128">
       <img
-      src="https://skillicons.dev/icons?i=php"
+      src="https://skillicons.dev/icons?i=flutter"
       width="65"
       height="65"
-        alt="PHP" />
-      <br />PHP
+      alt="flutter" />
+      <br />Flutter
     </td>
     <td align="center" width="128">
       <img
@@ -247,11 +247,11 @@ Software Engineer, Instructor and technical writer who uses written tutorials an
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=vscode"
+        src="https://skillicons.dev/icons?i=dart"
         width="65"
         height="65"
         alt="VsCode" />
-      <br />VsCode
+      <br />Dart
     </td>
   </tr>
   <tr>
