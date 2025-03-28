@@ -1,4 +1,4 @@
-# Hi I'm Kyle Smith 👋
+# Hi 👋
 
 Software Engineer, Instructor and technical writer who uses written tutorials and blog posts to help people learn to code.
 
@@ -6,11 +6,8 @@ Software Engineer, Instructor and technical writer who uses written tutorials an
 - 💻 Coding Instructor at [Nucamp](https://www.nucamp.co/).
 - Currently working on improving my skills on Data Structures and studying Math.
 - 💬 Ask me about React Native, React Native, NextJs, CSS, and JavaScript/ TypeScript.
-- 📫 How to reach me: kylesmith010701@gmail.com.
-
 
 # Articles and Blogs
-
   
   ### Serverless 
  - 📌 [Setting up Your First AWS Lambda Deployment for a Node Application](https://earthly.dev/blog/aws-lambda-node/).
