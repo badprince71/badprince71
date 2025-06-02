@@ -19,6 +19,13 @@ Software Engineer, Instructor, and technical writer who uses written tutorials a
 
 💥 Others: D3.js, ChartJS, React-hook-form, Three.js, Apollo GraphQL, Hasura, tRPC, Adobe XD, Blockchain, Solidity, Smart Contract, Web3.js
 
+# ⚡ Status
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Honest0&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Honest0&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Honest0&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Honest0&theme=algolia&utcOffset=8)
+
 # 🌱 Major Experiences
 
   ### Web design and Frontend Development 
@@ -35,12 +42,7 @@ Software Engineer, Instructor, and technical writer who uses written tutorials a
   
   ### AI Development
     Chatbot, AI Agent, NLP, LLM, ML, Image/voice detection.
-# ⚡ Status
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Honest0&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Honest0&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Honest0&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Honest0&theme=algolia&utcOffset=8)
+    
 <br clear="both" />
 
 <div align="center">
