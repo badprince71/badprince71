@@ -9,13 +9,13 @@ Software Engineer, Instructor, and technical writer who uses written tutorials a
 
 ## 💬 Talk with me
 
-💧 FrontEnd: React, Next.js, Remix, Vue, Redux, TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, Shopify
+💧 FrontEnd: React, Next.js, Remix, Vue, Redux, TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, Shopify, Three.js
 
 🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, RESTful API, PostgreSQL, AI, ML
 
-☀️ Mobile App: React Native, Android Java, C#
+☀️ Mobile App: React Native, Android Java, C#, Flutter
 
-🚀 Database: PostgreSQL, MySQL, MongoDB, Redis, ORM(TypeORM, Sequelize, Prisma, SQLAlchemy), Knex
+🚀 Database: PostgreSQL, MySQL, MongoDB, Redis, ORM(TypeORM, Sequelize, Prisma, SQLAlchemy), Knex, Supabase, Firebase
 
 💥 Others: D3.js, ChartJS, React-hook-form, Three.js, Apollo GraphQL, Hasura, tRPC, Adobe XD, Blockchain, Solidity, Smart Contract, Web3.js
 
